@@ -4,7 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+PROJECT UAS SEMESTER 4 (PEMROGRAMAN PERANGKAT BERGERAK)
+
+- 2211102441170 (Achmad Haykal Riziq)
+- 2211102441166 (Rizaldi Darma)
+- 2211102441248 (Citro Yoga Pangestu)
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
